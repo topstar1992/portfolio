@@ -1,4 +1,4 @@
-# Developer Portfolio 
+# Portfolio 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/b26b0ebaaa13bec7fac796ee0b8296676df6ee0b/developer-portfolio/website.svg" alt="" width="450px"/>
@@ -7,25 +7,6 @@
 ## Want to create a professional portfolio but cannot figure out how to? Use Developer Portfolio and create your own personalised portfolio today! With multiple themes to choose from, our easily customisable, user friendly website is designed to cater to developers and freelancers alike.
 
 <br />
-
-## Table of Contents :scroll:
-- [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
-- [Themes](#themes-art)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
-- [Folder Structure](#folder-structure-open_file_folder)
-- [Usage](#usage-joystick)
-- [Hosting](#hosting-globe_with_meridians)
-- [SEO](#seo-spider)
-- [Packages Used](#packages-used-package)
-- [APIs Used](#apis-used-world_map)
-- [Fonts and Images](#fonts-and-images-performing_arts)
-- [Upcoming Features](#upcoming-features-construction)
-- [Contributors](#contributors-man_technologistwoman_technologist)
-
-<br /><br />
-
 
 # Sections :bookmark:
 - HOME
@@ -36,10 +17,6 @@
     - EXPERIENCE
     - PROJECTS 
     - Achievements <br />
-- SERVICES 
-    - TESTIMONIALS <br />
-- BLOG
-- CONTACTS 
 
 <br /><br />
 
@@ -66,8 +43,8 @@ git --version
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone hhttps://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
-cd developer-portfolio
+git clone hhttps://github.com/<YOUR GITHUB USERNAME>/portfolio.git
+cd portfolio
 ```
 ### Install packages from the root directory
 ```
@@ -289,30 +266,6 @@ export const educationData = [
 
 <br />
 
-# Hosting :globe_with_meridians:
-## Netlify
-| Site   | Docs  | Demo  |
-| :-------------: |:-------------: |:-------------: |
-| [Netlify](https://www.netlify.com/) | [3 ways to deploy React apps to Netlify](https://blog.logrocket.com/3-ways-to-deploy-react-apps-to-netlify/) | [Youtube](https://www.youtube.com/watch?v=sGBdp9r2GSg) |
-## Firebase
-| Site   | Docs  | Demo  |
-| :-------------: |:-------------: |:-------------: |
-| [Firebase](https://firebase.google.com/docs/hosting) | [Deploy a React App with Firebase](https://medium.com/swlh/how-to-deploy-a-react-app-with-firebase-hosting-98063c5bf425) | [Youtube](https://www.youtube.com/watch?v=1wZw7RvXPRU) |
-
-
-## Heroku
-| Site   | Docs  | Demo  |
-| :-------------: |:-------------: |:-------------: |
-| [Heroku](https://www.heroku.com/) | [Deploying React App on Heroku from GitHub](https://medium.com/make-it-heady/deploying-create-react-app-on-heroku-from-github-49447561f670) | [Youtube](https://www.youtube.com/watch?v=dn4mmfbletg) |
-
-## Github Pages
-| Site   | Docs  | Demo  |
-| :-------------: |:-------------: |:-------------: |
-| [GitHub Pages](https://pages.github.com/) | [Deploying React App on GitHub Pages from GitHub](https://create-react-app.dev/docs/deployment/#github-pages) | [Youtube](https://youtu.be/F8s4Ng-re0E) |
-
-<br />
-
-
 # SEO :spider:
 ### Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. 
 ### Add the below code snippet to `public/index.html` with your site info. This step is not mandatory
@@ -368,13 +321,6 @@ export const educationData = [
 | slick-carousel |
 | validator |
 
-
-<br />
-
-# APIs Used :world_map:
-- [SheetDB](https://sheetdb.io/)
-
-
 <br />
 
 # Fonts and Images :performing_arts:
@@ -396,9 +342,3 @@ export const educationData = [
 - [Roboto](https://fonts.google.com/specimen/Roboto)
 
 <br />
-
-# Upcoming Features :construction:
-- Light/Dark theme toggle
-- More illustrations to choose from
-- Achievements and Awards section
-- More fonts to choose from
